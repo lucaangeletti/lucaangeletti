@@ -18,7 +18,7 @@ Over the last few years, I dedicated part of each day to the iOS community.
 - Written `245 tutorials` in the Italian language for [HTML.it](https://html.it/author/langeletti) about Swift, Objective-C and other topics.
 
 ## 📚 Mentor
-I enjoy teaching iOS App and Game Development, something that I have been doing with much fun over the last five years.
+I enjoy teaching iOS App and Game Development, something that I have been doing with much fun over the last six years.
 - On classroom
 - Via Skype
 - On [Codementor](https://codementor.io/lucaangeletti) (5 stars reputation)

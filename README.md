@@ -20,7 +20,7 @@ I enjoy teaching iOS App and Game Development, something that I have been doing 
 - Via Skype
 - On Codementor (5 stars reputation)
 
-## Links
+## 🌍 Links
 - [StackOverflow](https://stackoverflow.com/users/1761687/luca-angeletti)
 - [Linkedin](https://www.linkedin.com/in/lucaangeletti/)
 - [Medium](https://medium.com/@lucaangeletti)

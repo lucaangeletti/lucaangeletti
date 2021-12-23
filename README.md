@@ -1,4 +1,4 @@
-Software Developer with 15 years of professional experience.
+Software Developer with `15 years` of professional experience.
 12 years of experience in iOS development, also worked at macOS and watchOS apps.
 Remote contractor and trainer since 2016.
 

@@ -21,9 +21,11 @@ I enjoy teaching iOS App and Game Development, something that I have been doing 
 - On Codementor (5 stars reputation)
 
 ## Links
-- stackoverflow.com/users/1761687/luca-angeletti
-- medium.com/@lucaangeletti
-- html.it/author/langeletti
-- codementor.io/lucaangeletti
+- [StackOverflow](https://stackoverflow.com/users/1761687/luca-angeletti)
+- [Linkedin](https://www.linkedin.com/in/lucaangeletti/)
+- [Medium](https://medium.com/@lucaangeletti)
+- [Codementor](https://codementor.io/lucaangeletti)
+- [HTML.it](https://html.it/author/langeletti)
+
 
 

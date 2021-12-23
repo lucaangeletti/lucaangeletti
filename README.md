@@ -10,7 +10,7 @@ Doing my best to write clean, optimized, and testable code.
 
 ## 📖 Writer
 Over the last few years, I dedicated part of each day to the iOS community.
-- Top 0.4% on StackOverflow where I reached 2.1 millions users with 982 answers about Swift, SpriteKit, and iOS.
+- Top 0.4% on StackOverflow, reached 2.3 millions users with 983 answers about Swift, SpriteKit, and iOS.
 - Published 11 articles about Swift on Medium.
 - Written 245 tutorials in the Italian language for HTML.it about Swift, Objective-C and other topics.
 

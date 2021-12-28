@@ -7,7 +7,7 @@ Remote contractor and trainer since 2016.
 ## 📱 App Developer
 Doing my best to write clean, optimized, and testable code.
 - Highly experienced with `Swift`, `Objective-C`, Xcode.
-- Design Patterns: `MVC`, `MVP`, `MVVM`, `VIPER`, `Adapter`, `Composite`, `Coordinator`, `Decorator`, `Delegation`, `Facade`, `Factory`, `Iterator`, `Memento`, `Observer`, `Singleton`.
+- Design Patterns: `MVC`, `MVP`, `VIPER`, `Adapter`, `Composite`, `Coordinator`, `Decorator`, `Delegation`, `Facade`, `Factory`, `Iterator`, `Memento`, `Observer`, `Singleton`.
 - Paradigms: `Concurrent`, `Functional`, `OOP`, `Parallel`, `POP`.
 - Learning `SwiftUI` and `Combine`.
 

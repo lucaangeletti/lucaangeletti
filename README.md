@@ -12,7 +12,7 @@ Doing my best to write clean, optimized, and testable code.
 - Learning `SwiftUI` and `Combine`.
 
 ## 📖 Writer
-When in 2013 I was building my videogame, the iOS community helped me a lot. Since then, every week I try to give back some help.
+When in 2013 I was building my [videogame](https://www.youtube.com/watch?v=SvH0Kjk7b8s), the iOS community helped me a lot. Since then, every week I try to give back some help.
 
 - Top `0.4%` on [StackOverflow](https://stackoverflow.com/users/1761687/luca-angeletti), reached `2.3 millions` users with `983 answers` about Swift, SpriteKit, and iOS.
 - Published `11 articles` about Swift on [Medium](https://medium.com/@lucaangeletti).

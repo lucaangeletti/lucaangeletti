@@ -24,3 +24,7 @@ I enjoy teaching iOS App and Game Development, something that I have been doing 
 - Via Skype
 - On [Codementor](https://codementor.io/lucaangeletti) (5 stars reputation)
 
+
+<a href="https://stackoverflow.com/users/1761687/luca-angeletti">
+<img src="https://stackoverflow.com/users/flair/1761687.png?theme=dark" width="208" height="58" alt="profile for Luca Angeletti at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Luca Angeletti at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+</a>

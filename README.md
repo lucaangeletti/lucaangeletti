@@ -1,8 +1,14 @@
+[![](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/lucaangeletti)
+[![](https://img.shields.io/badge/-Medium-black?logo=medium)](https://lucaangeletti.medium.com)
+[![](https://img.shields.io/badge/55K-StackOverflow-orange?logo=stackoverflow)](https://stackoverflow.com/users/1761687/luca-angeletti)
+
+
 # Luca Angeletti
 Software Developer with [15 years](https://www.linkedin.com/in/lucaangeletti/) of professional experience.
 
 12 years of experience in iOS development, also worked at macOS and watchOS apps.
 Remote contractor and trainer since 2016.
+
 
 ## 📱 App Developer
 Doing my best to write clean, optimized, and testable code.
@@ -23,8 +29,3 @@ I enjoy teaching iOS App and Game Development, something that I have been doing 
 - On classroom
 - Via Skype
 - On [Codementor](https://codementor.io/lucaangeletti) (5 stars reputation)
-
-
-<a href="https://stackoverflow.com/users/1761687/luca-angeletti">
-<img src="https://stackoverflow.com/users/flair/1761687.png?theme=dark" width="208" height="58" alt="profile for Luca Angeletti at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Luca Angeletti at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>

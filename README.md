@@ -1,9 +1,6 @@
-[![](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/lucaangeletti)
-[![](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium)](https://lucaangeletti.medium.com)
-[![](https://img.shields.io/badge/55K-StackOverflow-orange?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/1761687/luca-angeletti)
-
-
-
+[![](https://img.shields.io/badge/LinkedIn--blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/lucaangeletti)
+[![](https://img.shields.io/badge/Medium-11_Articles-white?style=flat&logo=medium)](https://lucaangeletti.medium.com)
+[![](https://img.shields.io/badge/StackOverflow-55K-orange?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/1761687/luca-angeletti)
 
 # Luca Angeletti
 Software Developer with [15 years](https://www.linkedin.com/in/lucaangeletti/) of professional experience.

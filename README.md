@@ -1,6 +1,8 @@
 [![](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/lucaangeletti)
-[![](https://img.shields.io/badge/-Medium-black?logo=medium)](https://lucaangeletti.medium.com)
-[![](https://img.shields.io/badge/55K-StackOverflow-orange?logo=stackoverflow)](https://stackoverflow.com/users/1761687/luca-angeletti)
+[![](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium)](https://lucaangeletti.medium.com)
+[![](https://img.shields.io/badge/55K-StackOverflow-orange?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/1761687/luca-angeletti)
+
+
 
 
 # Luca Angeletti

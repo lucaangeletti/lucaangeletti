@@ -3,28 +3,17 @@
 [![](https://img.shields.io/badge/StackOverflow-55K-orange?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/1761687/luca-angeletti)
 
 # Luca Angeletti
-Software Developer with [15 years](https://www.linkedin.com/in/lucaangeletti/) of professional experience.
+I am a Software Engineer with 17 years of total experience. Worked on 16 iOS projects (even featured in some Apple Keynotes), have been using Swift for 9 years, and Objective-C for 15 years.
 
-12 years of experience in iOS development, also worked at macOS and watchOS apps.
-Remote contractor and trainer since 2016.
+Since 2016, I have been working remotely with companies in Germany, the UK, and Spain (leveraging Git, GitHub, Slack, and Jira) where I could refine my communication, teamwork, and leadership skills.
 
+In 2013, I invested a year in building [Luminetic Land](https://www.youtube.com/watch?v=SvH0Kjk7b8s) , a video game for iPhone and iPad that leverages a physics engine (Box2D), OpenGL, and the RayCasting technique to deliver impressive real-time lighting effects. My game was featured on AppStore Portugal.
 
-## 📱 App Developer
-Doing my best to write clean, optimized, and testable code.
-- Highly experienced with `Swift`, `Objective-C`, Xcode.
-- Design Patterns: `MVC`, `MVP`, `VIPER`, `Adapter`, `Composite`, `Coordinator`, `Decorator`, `Delegation`, `Facade`, `Factory`, `Iterator`, `Memento`, `Observer`, `Singleton`.
-- Paradigms: `Concurrent`, `Functional`, `OOP`, `Parallel`, `POP`.
-- Learning `SwiftUI` and `Combine`.
+I have actively worked at my problem solving skills contributing to [StackOverflow](https://stackoverflow.com/users/1761687/luca-angeletti) for 10 years. Wrote 984 answers on Swift, iOS, and SpriteKit, which have reached 2.7 million users, earned me a reputation of 57k and ranked me in the top 0.35% of the community.
 
-## 📖 Writer
-When in 2013 I was building my [videogame](https://www.youtube.com/watch?v=SvH0Kjk7b8s), the iOS community helped me a lot. Since then, every week I try to give back some help.
+I have also published 11 articles about Swift, Codable, and JSON on [Medium](https://lucaangeletti.medium.com).
+Taught app development in classrooms, via Skype, and on [Codementor](https://codementor.io/lucaangeletti) with a 5-star reputation.
+Written [245 tutorials](https://html.it/author/langeletti) in Italian covering topics such as Swift and Objective-C.
 
-- Top `0.4%` on [StackOverflow](https://stackoverflow.com/users/1761687/luca-angeletti), reached `2.3 millions` users with `983 answers` about Swift, SpriteKit, and iOS.
-- Published `11 articles` about Swift on [Medium](https://lucaangeletti.medium.com).
-- Written `245 tutorials` in the Italian language for [HTML.it](https://html.it/author/langeletti) about Swift, Objective-C and other topics.
-
-## 📚 Mentor
-I enjoy teaching iOS App and Game Development, something that I have been doing with much fun over the last six years.
-- On classroom
-- Via Skype
-- On [Codementor](https://codementor.io/lucaangeletti) (5 stars reputation)
+Finally, I consider myself a pragmatic software developer with experience in a wide variety of organizations (small startups, big corporates, product companies, and app agencies).
+My background includes several paradigms (OOP, POP, Functional, Parallel, Concurrent), architectures (MVC, MVP, MVVM, Redux), and languages (Java, SQL, C, GLSL, JavaScript, HTML, CSS).

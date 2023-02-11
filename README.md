@@ -12,7 +12,7 @@ In 2013, I invested a year in building [Luminetic Land](https://www.youtube.com/
 I have actively worked at my problem solving skills contributing to [StackOverflow](https://stackoverflow.com/users/1761687/luca-angeletti) for 10 years. Wrote 984 answers on Swift, iOS, and SpriteKit, which have reached 2.7 million users, earned me a reputation of 57k and ranked me in the top 0.35% of the community.
 
 I have also published 11 articles about Swift, Codable, and JSON on [Medium](https://lucaangeletti.medium.com).
-Taught app development in classrooms, via Skype, and on [Codementor](https://codementor.io/lucaangeletti) with a 5-star reputation.
+Taught app development in classrooms, via Skype, and on [Codementor](https://www.codementor.io/@lucaangeletti) with a 5-star reputation.
 Written [245 tutorials](https://html.it/author/langeletti) in Italian covering topics such as Swift and Objective-C.
 
 Finally, I consider myself a pragmatic software developer with experience in a wide variety of organizations (small startups, big corporates, product companies, and app agencies).

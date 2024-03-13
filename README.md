@@ -1,6 +1,6 @@
 [![](https://img.shields.io/badge/LinkedIn--blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/lucaangeletti)
 [![](https://img.shields.io/badge/Medium-11_Articles-white?style=flat&logo=medium)](https://lucaangeletti.medium.com)
-[![](https://img.shields.io/badge/StackOverflow-55K-orange?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/1761687/luca-angeletti)
+[![](https://img.shields.io/badge/StackOverflow-59K-orange?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/1761687/luca-angeletti)
 
 # Luca Angeletti
 I am a product oriented Software Engineer with 17 years of experience. Worked on 18 iOS, macOS, and watchOS projects (even featured in some Apple Keynotes) leveraging UIKit and SwiftUI.

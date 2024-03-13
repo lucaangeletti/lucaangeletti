@@ -18,9 +18,17 @@ Contributed to _StackOverflow_ for 11 years. Wrote 997 answers on `Swift`, `iOS`
 Since 2017, I have been working remotely with European companies (leveraging GitHub, Slack, Jira and Figma) where I had the opportunity to improve my communication, teamwork, leadership, and problem solving skills.
 
 Published 11 articles about Swift, Codable, and JSON on Medium.
-Taught app development in classroom, via Skype, and on Codementor (with a 5-star reputation).
+Taught app development:
+- in classroom,
+- via Skype,
+- and on Codementor (with a 5-star reputation).
+
 Written 245 tutorials in Italian covering topics such as `Swift` and `Objective-C`.
 
-Experienced with a variety of organizations: small startups, big corporates, product companies, and app agencies.
+Experienced with a variety of organizations:
+- small startups,
+- big corporates,
+- product companies,
+- and app agencies.
 
 In my free time I enjoy running, training my Wing Chun, playing Chess, and reading.
